@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+core = {
+    "Name": "Abyan Shafly Arief",
+    "Age": 18,
+    "Programming language": {
+        "Python",
+        "Javascript",
+        "PHP",
+    }
+}
+print(f"My name is {core['Name']}, my age {core['Age']} yo, and the programming languages i am learning are {core['Programming language']}.")
 <!--
 **Kejies/Kejies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
