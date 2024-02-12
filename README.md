@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Fullstuck
+  
 core = {
 
     "Name": "Abyan Shafly Arief",
