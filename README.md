@@ -14,5 +14,6 @@ Hi, I'm Abyan Shafly Arief<br>A passionate backend developer from Indonesia
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kejies&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://www.codewars.com/users/Kyji/badges/micro)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
