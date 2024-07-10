@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi, I'm Abyan Shafly Arief<br>A passionate backend developer from Indonesia
-![](https://www.codewars.com/users/Kyji/badges/large)
 
 
 ## 🌐 Socials:
