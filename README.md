@@ -12,7 +12,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 Passionate developer who enjoys building **web applications, backend systems, APIs, and game-related projects**.
 
@@ -36,5 +36,5 @@ Passionate developer who enjoys building **web applications, backend systems, AP
 ---
 
 <p align="center">
-  <sub>Always learning • Always building • Always improving 🚀</sub>
+  <sub>Always learning • Always building • Always improving</sub>
 </p>
