@@ -1,17 +1,112 @@
-# 💫 About Me:
-Hi, I'm Abyan Shafly Arief<br>A passionate backend developer from Indonesia
+# 👋 Hi, I'm Abyan Shafly Arief
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20%26%20Full%20Stack%20Developer-0d1117?style=for-the-badge" alt="Developer">
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abyan_shafly) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kyjiies)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kejies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> Passionate developer from Indonesia 🇮🇩  
+> Building clean, practical, and useful things.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kejies&icon=0&color=1)](https://visitcount.itsvg.in)
-![](https://www.codewars.com/users/Kyji/badges/micro)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm **Abyan Shafly Arief**, a passionate developer from **Indonesia**.
+
+I enjoy building web applications, backend systems, game-related projects, and experimenting with new technologies.
+
+```text
+Location   → Indonesia 🇮🇩
+Focus      → Backend & Full Stack
+Interests  → Web • Games • APIs • Systems
+Currently  → Learning & Building 🚀
+```
+
+## ⚡ Tech Stack
+
+### Languages
+
+Python · TypeScript · JavaScript · PHP · HTML5 · CSS3
+
+### Frameworks & Runtime
+
+Django · Laravel · Next.js · Node.js · Tailwind CSS
+
+### Database
+
+MongoDB · MySQL · PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117" height="170">
+</p>
+
+---
+
+## 🛠️ What I Build
+
+```text
+Backend
+├── REST APIs
+├── Authentication & Authorization
+├── Database Systems
+└── Server-side Applications
+
+Web Development
+├── Full Stack Applications
+├── Modern UI
+├── Responsive Websites
+└── Developer Tools
+
+Game Development
+├── Gameplay Systems
+├── Multiplayer Features
+├── FiveM / GTA Projects
+└── Roblox Experiments
+```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **Project One** | Modern web application with clean architecture. | TypeScript · Next.js |
+| **Project Two** | Backend/API focused on performance and scalability. | Python · Django |
+| **Project Three** | Game project with custom gameplay systems. | Lua · FiveM |
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=f0f6fc&line=58a6ff&point=ffffff&area=true&hide_border=true">
+</p>
+
+---
+
+## 💬 Let's Connect
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  •
+  <a href="https://instagram.com/YOUR_INSTAGRAM">Instagram</a>
+  •
+  <a href="https://tiktok.com/@YOUR_TIKTOK">TikTok</a>
+</p>
+
+<p align="center">
+  <sub>© Abyan Shafly Arief • Built with Markdown & ☕</sub>
+</p>
