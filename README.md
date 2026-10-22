@@ -19,7 +19,7 @@ Passionate developer who enjoys building **web applications, backend systems, AP
 ### ⚡ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,html,css,django,laravel,nextjs,nodejs,tailwind,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,lua,css,django,laravel,nextjs,nodejs,tailwind,mongodb,mysql,postgres" />
 </p>
 
 ### GitHub
